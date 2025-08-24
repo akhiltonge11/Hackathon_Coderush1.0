@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+backend/
+frontend/
+models/
+
+eeg_schizophrenia_model1.pt
+*.ipynb
+
+# EDF files
+*.edf
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
